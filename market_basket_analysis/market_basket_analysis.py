@@ -126,7 +126,7 @@ def findUnionOfFrequentSet(freqnt_st,data,support_count,final_count):
 if __name__ == "__main__":
     support_count = int(sys.argv[1])
 
-#    file_pointer = open('/home/vaibhav/Desktop/ai/groceries.csv', 'r')
+#    file_pointer = open('/home/satya/Desktop/ai/groceries.csv', 'r')
 
  #   data = file_pointer.readlines()
 #    data = map(lambda x : (x.strip('\n')).split(','), data)
